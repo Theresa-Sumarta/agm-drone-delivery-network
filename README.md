@@ -33,15 +33,12 @@ The dataset used includes details on drone locations, delivery points, and assoc
    git clone <https://github.com/Theresa-Sumarta/agm-drone-delivery-network.git)
    cd <agm-drone-delivery-network>
   ```
-
 2. Install necessary dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
 3. Run the notebook in Jupyter:
 ```bash
 jupyter notebook Drone_Delivery_Algorithms.ipynb
 ```
-
 4. View the presentation slide deck for an overview of the study.
