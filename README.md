@@ -30,8 +30,8 @@ The dataset used includes details on drone locations, delivery points, and assoc
 
 1. Clone the repository:
 ```bash
-   git clone <https://github.com/Theresa-Sumarta/agm-drone-delivery-network.git)
-   cd <agm-drone-delivery-network>
+git clone https://github.com/Theresa-Sumarta/agm-drone-delivery-network.git
+cd agm-drone-delivery-network
 ```
 2. Install necessary dependencies:
 ```bash
