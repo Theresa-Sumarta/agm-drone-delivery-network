@@ -19,12 +19,8 @@ The dataset used includes details on drone locations, delivery points, and assoc
 
 ## File Structure
 
-- **[Drone Delivery Algorithm Notebook](path_to_notebook)**: Contains the code for all algorithms.
-- **[Presentation Slide Deck](path_to_slide_deck)**: Provides a comprehensive overview of the project.
-
-## Contributors
-- Theresa Sumarta
-- Darren Lo
+- **[Drone Delivery Algorithm Notebook](./AGM_Drone_Delivery_Optimization_Code.ipynb)**: Contains the code for all algorithms.
+- **[Presentation Slide Deck](./AGM_Drone_Delivery_Optimization_Slides.pdf)**: Provides a comprehensive overview of the project.
 
 ## How to Run
 
@@ -42,3 +38,7 @@ pip install -r requirements.txt
 jupyter notebook Drone_Delivery_Algorithms.ipynb
 ```
 4. View the presentation slide deck for an overview of the study.
+
+## Contributors
+- Theresa Sumarta
+- Darren Lo
